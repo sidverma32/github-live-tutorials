@@ -7,3 +7,14 @@
 
 > Math support in Markdown
 
+Support for displaying math expressions has been a highly
+requested feature.
+You can use `$` and `$$` delimeters.
+
+Example:
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+Will render:
+
